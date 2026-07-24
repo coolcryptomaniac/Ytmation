@@ -1,8 +1,10 @@
-
-openai
+anthropic
+openai>=1.30
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-moviepy
+google-genai
+moviepy>=2.0
+Pillow
 requests
-suno-api
+SunoAI
